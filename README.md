@@ -6,3 +6,12 @@ TikZ.
 
 Most of said cool stuff will probably come from [tikz.dev](https://tikz.dev/)
 
+## Install LaTeX
+
+#### Linux
+```
+sudo pacman -S texlive-most texlive-lang        # arch-based system
+
+sudo apt install texlive-full                   # debian-based system
+```
+
