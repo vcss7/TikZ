@@ -15,3 +15,4 @@ sudo pacman -S texlive-most texlive-lang        # arch-based system
 sudo apt install texlive-full                   # debian-based system
 ```
 
+
