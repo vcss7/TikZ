@@ -15,4 +15,15 @@ sudo pacman -S texlive-most texlive-lang        # arch-based system
 sudo apt install texlive-full                   # debian-based system
 ```
 
+## Compiling LaTeX
+
+```
+# compile into a dvi file
+latex file.tex
+
+# compile into a pdf file
+pdflatex file.tex file.pdf
+
+```
+
 
